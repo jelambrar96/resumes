@@ -4,9 +4,9 @@ Jorge Lambraño
 <img style="float: right;" src="media/jelambrar.jpg" width="180">
 
 -------------------     ----------------------------
-Email adress:                    jelambrar@gmail.com  
-Github account:                       [@jelambrar96](https://github.com/jelambrar96)  
+Email adress:                   <jelambrar@gmail.com>  
 Telephone:                        (+57) 304-565-3650  
+Github account:                       [@jelambrar96](https://github.com/jelambrar96)  
 -------------------     ----------------------------
 
 **About me**  
