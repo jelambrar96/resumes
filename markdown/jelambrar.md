@@ -1,93 +1,105 @@
-Johnny Coder
+Jorge Lambraño
 ============
 
+<img style="float: right;" src="media/jelambrar.jpg" width="180">
+
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Email adress:                    jelambrar@gmail.com  
+Github account:                       [@jelambrar96](https://github.com/jelambrar96)  
+Telephone:                        (+57) 304-565-3650  
+-------------------     ----------------------------
+
+**About me**  
+I am Electronic Engineer from Universidad del Norte. I have experience on the
+field of Electronic Design and Embedded Systems, and I have skills developing applications
+using C, C++ and Java, as well as strong leadership abilities. Likewise, I am able to
+build and maintain satisfactory interpersonal relationships and assume responsibilities.
+
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2014-2019
+:   **Electronic Engineer**; Universidad del Norte 
+    (Barranquilla-Colombia)  
+    **Thesis: Optimización de un sistema de procesamiento de imágenes 
+    por radar.**  
+    A computer vision system to measure and extract basic ocean waves features
+    were optimized in other to be excuted on devices which medium computing 
+    level. New features were developed using python-based frameworks like
+    numpy, scipy and opencv-python.     
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+:   **Ebenezer Technologies SAS: C++ Developer:** (since Feb 2019)   
+    Computer vision system have been developer based on C++ and OpenCV.
+    This system is able to count buses passenger and to process real-time
+    video. In addition, IoT applications and Human-Machine interfaces 
+    have been made in other to automatize parking tasks.  
+    More information about Ebenezer Technologies SAS
+    [Here](https://ebenezertechs.com/).
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+-------------------     ----------------------------
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
+Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Programming Languages and Technicals tools
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+:   **C/C++**   
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   **Python**
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Linux**
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Java**
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **Networking** 
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **Git** 
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   Basic knowledge of **angular**, **Django**, **Flask**, **Keras**,
+    **nodejs**, **TensorFlow**, **VHDL**, **x86 assembly** 
 
-Extra Section, Call it Whatever You Want
+[ref]: https://github.com/jelambrar96
+
+Extra Section
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+    * Spanish (native speaker)
+    * English (intermediate).
 
-* Random tidbit
+-------------------     ----------------------------
 
-* Other sort of impressive-sounding thing you did
+Other certifications
+----------------------------------------
+
+*   **NDG Linux Essentials**. Course. (Feb 2018)  
+    Cisco Networking Academy.
+
+*   **Cybersecurity Essentials**. Course (Feb 2018)  
+    Cisco Networking Academy.
+
+*   **Introduction to IoT**. Course (Oct 2017)  
+    Cisco Networking Academy.
+
+*   **Introduction to Cybersecurity**. Course (Oct 2017)  
+    Cisco Networking Academy.
+
+*   **Uso de clases, objetos, Métodos Y archivos secuenciales 
+    en POO con lenguaje de programación C++ (Nivel III)** Course (Oct 2015)    
+    Servicio Nacional de Aprendizaje - SENA
+
+*   **Módulos, estructura de almacenamiento y POO utilizando el
+    lenguaje de programación C++ (Nivel II)** Course (Oct 2015)  
+    Servicio Nacional de Aprendizaje - SENA
+
+*   **Estructura del lenguaje de programación C++ (Nivel I)**. 
+    Course (May 2015)  
+     Servicio Nacional de Aprendizaje - SENA
+ 
