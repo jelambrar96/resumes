@@ -6,7 +6,8 @@ Jorge Lambraño
 -------------------     ----------------------------
 Email adress:                   <jelambrar@gmail.com>  
 Telephone:                        (+57) 304-565-3650  
-Github account:                       [@jelambrar96](https://github.com/jelambrar96)  
+Github profile:                       [@jelambrar96](https://github.com/jelambrar96)  
+LinkedIn profile:                     [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)
 -------------------     ----------------------------
 
 **About me**  
@@ -61,8 +62,8 @@ Programming Languages and Technicals tools
 
 :   **Git** 
 
-:   Basic knowledge of **angular**, **Django**, **Flask**, **Keras**,
-    **nodejs**, **TensorFlow**, **VHDL**, **x86 assembly** 
+:   Intermediate knowledge of **javascript**, **angular**, **Django**, **Flask**, **Keras**, **Pandas**,
+    **nodejs**, **TensorFlow**, **VHDL**, **x86 assembly**
 
 [ref]: https://github.com/jelambrar96
 
