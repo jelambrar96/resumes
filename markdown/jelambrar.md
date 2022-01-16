@@ -35,13 +35,17 @@ Education
 Experience
 ----------
 
-:   **Ebenezer Technologies SAS: C++ Developer:** (since Feb 2019)   
+:   **Ebenezer Technologies SAS: C++ Developer:** (since Feb 2019 to Jun 2021)   
     Computer vision system have been developer based on C++ and OpenCV.
     This system is able to count buses passenger and to process real-time
     video. In addition, IoT applications and Human-Machine interfaces 
-    have been made in other to automatize parking tasks.  
+    have been made in other to automatize parking tasks.    
     More information about Ebenezer Technologies SAS
     [Here](https://ebenezertechs.com/).
+
+: **Energia Eficiente E2 SA:** (since Jul 2021)    
+    Energy variables such as losses and energy consumption and displayed on dashboard in real time. In addition, this dashboards are able to show predictions of those variables with a high degree of accuracy.    
+    More information about Energia Eficiente SA. [Here](https://www.e2energiaeficiente.com/)
 
 -------------------     ----------------------------
 
@@ -62,8 +66,10 @@ Programming Languages and Technicals tools
 
 :   **Git** 
 
-:   Intermediate knowledge of **javascript**, **angular**, **Django**, **Flask**, **Keras**, **Pandas**,
-    **nodejs**, **TensorFlow**, **VHDL**, **x86 assembly**
+:   **Docker** 
+
+:   Intermediate knowledge of **javascript**, **angular**, **Django**, **Flask**, **Keras**, **Pandas**, **Opencv** 
+    **nodejs**, **TensorFlow**, **pandas**, **numpy**, **VHDL**
 
 [ref]: https://github.com/jelambrar96
 
@@ -73,12 +79,14 @@ Extra Section
 * Human Languages:
 
     * Spanish (native speaker)
-    * English (intermediate).
+    * English (B2)
 
 -------------------     ----------------------------
 
 Other certifications
 ----------------------------------------
+
+*   **DS4A Colombia 2021**: Course. (sep 2021) 
 
 *   **NDG Linux Essentials**. Course. (Feb 2018)  
     Cisco Networking Academy.
@@ -104,3 +112,6 @@ Other certifications
     Course (May 2015)  
      Servicio Nacional de Aprendizaje - SENA
  
+-----------------------------------------
+
+Another insteresting projects
