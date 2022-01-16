@@ -11,7 +11,7 @@ LinkedIn profile:                     [Jorge Lambraño](https://www.linkedin.com
 -------------------     ----------------------------
 
 **About me**  
-I am Electronic Engineer from Universidad del Norte. I have experience on the
+I am Electronic Engineer from Universidad del Norte (Barranquilla, Colombia). I have experience on the
 field of Electronic Design and Embedded Systems, and I have skills developing applications
 using C, C++ and Java, as well as strong leadership abilities. Likewise, I am able to
 build and maintain satisfactory interpersonal relationships and assume responsibilities.
@@ -45,7 +45,7 @@ Experience
 
 : **Energia Eficiente E2 SA:** (since Jul 2021)    
     Energy variables such as losses and energy consumption and displayed on dashboard in real time. In addition, this dashboards are able to show predictions of those variables with a high degree of accuracy.    
-    More information about Energia Eficiente SA. [Here](https://www.e2energiaeficiente.com/)
+    More information about Energia Eficiente SA. [Here](https://www.e2energiaeficiente.com/).
 
 -------------------     ----------------------------
 
@@ -54,23 +54,16 @@ Skills
 
 Programming Languages and Technicals tools
 
-:   **C/C++**   
+- **C/C++**   
+- **Python**
+- **Linux**
+- **Java**
+- **Networking** 
+- **Git** 
+- **Docker** 
+- **Javascript**
 
-:   **Python**
-
-:   **Linux**
-
-:   **Java**
-
-:   **Networking** 
-
-:   **Git** 
-
-:   **Docker** 
-
-:   **javascript**
-
-:   Intermediate knowledge of  **angular**, **Django**,
+:   Intermediate knowledge of  **angular**, **node**, **Django**,
     **Flask**, **Keras**, **Pandas**, **Opencv**,
     **nodejs**, **TensorFlow**, **pandas**, **numpy**, **VHDL**
 
@@ -89,7 +82,9 @@ Extra Section
 Other certifications
 ----------------------------------------
 
-*   **DS4A Colombia 2021**: Course. (sep 2021) 
+*   **DS4A Colombia 2021**: Course. (Sep 2021) 
+
+*   **Habilidades Digitales de Programación de Misión TIC 2022**: Course. (Dic 2020)
 
 *   **NDG Linux Essentials**. Course. (Feb 2018)  
     Cisco Networking Academy.
@@ -115,6 +110,15 @@ Other certifications
     Course (May 2015)  
      Servicio Nacional de Aprendizaje - SENA
  
------------------------------------------
+-------------------     ----------------------
 
 Another insteresting projects
+----------------------------------------
+
+: **Data science applied to passenger land transport in colombia** (Sep 2021)  
+This project seeks to develop a computational approach based on data science techniques to forecast passenger demand in different bus terminals and routes on Colombia. Passenger transportation companies can find the application useful to make decisions on fleet allocation. Based-python tools were applied: Pandas, Jupyter, Plotly and TensorFlow.   
+More infomation about this project [Here](https://github.com/andiazo/ds4a_team81).
+
+: **Single Page Application. Animal Care Fundation** (Aug 2021)  
+This application is able to store and display data from an animal care fundation, such as information of each pet, pet care, supplies and costs. Tools like Javascript, MongoDB, NodeJs, ReactJS were applied.  
+More information about this project [Here](https://github.com/srendonv/animal-care-foundation).
