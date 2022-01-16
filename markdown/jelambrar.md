@@ -55,17 +55,16 @@ Skills
 Programming Languages and Technicals tools
 
 - **C/C++**   
-- **Python**
-- **Linux**
-- **Java**
-- **Networking** 
-- **Git** 
 - **Docker** 
+- **Git** 
+- **Java**
 - **Javascript**
+- **Linux**
+- **Python**
 
-:   Intermediate knowledge of  **angular**, **node**, **Django**,
+:   Intermediate knowledge of **AWS**, **Angular**, **Django**,
     **Flask**, **Keras**, **Pandas**, **Opencv**,
-    **nodejs**, **TensorFlow**, **pandas**, **numpy**, **VHDL**
+    **NodeJs**, **TensorFlow**, **Pandas**, **Numpy**, **VHDL**
 
 [ref]: https://github.com/jelambrar96
 
@@ -89,13 +88,7 @@ Other certifications
 *   **NDG Linux Essentials**. Course. (Feb 2018)  
     Cisco Networking Academy.
 
-*   **Cybersecurity Essentials**. Course (Feb 2018)  
-    Cisco Networking Academy.
-
 *   **Introduction to IoT**. Course (Oct 2017)  
-    Cisco Networking Academy.
-
-*   **Introduction to Cybersecurity**. Course (Oct 2017)  
     Cisco Networking Academy.
 
 *   **Uso de clases, objetos, Métodos Y archivos secuenciales 
