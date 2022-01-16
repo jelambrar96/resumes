@@ -68,7 +68,10 @@ Programming Languages and Technicals tools
 
 :   **Docker** 
 
-:   Intermediate knowledge of **javascript**, **angular**, **Django**, **Flask**, **Keras**, **Pandas**, **Opencv** 
+:   **javascript**
+
+:   Intermediate knowledge of  **angular**, **Django**,
+    **Flask**, **Keras**, **Pandas**, **Opencv**,
     **nodejs**, **TensorFlow**, **pandas**, **numpy**, **VHDL**
 
 [ref]: https://github.com/jelambrar96
