@@ -66,8 +66,6 @@ Programming Languages and Technicals tools
     **Flask**, **Keras**, **Pandas**, **Opencv**,
     **NodeJs**, **TensorFlow**, **Pandas**, **Numpy**, **VHDL**
 
-[ref]: https://github.com/jelambrar96
-
 Extra Section
 ----------------------------------------
 
