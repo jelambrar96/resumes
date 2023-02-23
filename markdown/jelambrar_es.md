@@ -1,5 +1,6 @@
-Jorge Lambraño
-============
+# Jorge Lambraño
+##  (Desarrollador de Software)
+
 
 <img style="float: right;" src="media/jelambrar.jpg" width="180">
 
@@ -11,7 +12,7 @@ Perfil LinkedIn:                      [Jorge Lambraño](https://www.linkedin.com
 -------------------     ----------------------------
 
 **Acerca de mi**  
-Ingeniero Electrónico egresado de la Universidad del Norte  (Barranquilla, Colombia). Con experiencia en el campo del diseño electrónico y los sistemas embebidos, y habilidades en el desarrollo de aplicaciones basadas en C, C++ y Java, asi como un fuerte liderazgo. Además, con capacidad de construir y mantener relaciones interpersonales satisfactorias y de asumir responsabilidades.
+Ingeniero Electrónico egresado de la Universidad del Norte  (Barranquilla, Colombia), con experiencia en recopilación, procesamiento, análisis y presentación de datos, así como en el desarrollo de aplicaciones y la creación de bases de datos. Tengo conocimientos en lenguajes de programación como Java, C++, JavaScript y Python. También tengo experiencia en el diseño y desarrollo de algoritmos y conocimiento en los principios de la ciencia de datos, machine learning y minería de datos. Además, estoy familiarizado con el uso de herramientas de visualización de datos como Grafana, PowerBI, Tableau, QlikView y D3.js. Soy un trabajador orientado al trabajo en equipo y al liderazgo, y con la capacidad de ser independiente para alcanzar los objetivos. Además, con capacidad de construir y mantener relaciones interpersonales satisfactorias y de asumir responsabilidades.
 
 -------------------     ----------------------------
 
@@ -27,12 +28,25 @@ Educación
 Experiencia Laboral
 ----------
 
-:   **Ebenezer Technologies SAS: C++ Developer:** (desde Feb 2019 a Jun 2021) 
-    Se desarrolló un sistema de visión por computadora en C++ en OpenCV. Este sistema es capaz de procesar video en tiempo real y contar pasajeros en buses. Adicionalmente, se diseñaron y construyeron aplicaciones de Internet de las Cosas (IoT) para la automatización de parqueaderos.
+:   **Ebenezer Technologies SAS: C++ Developer:** (desde Feb 2019 a Jun 2021)
+- Diseñar y desarrollar algoritmos de visión artificial para procesar grandes cantidades de datos.C++.  
+- Crear modelos de visión artificial para la detección y seguimiento de objetos. C++. 
+- Implementar técnicas de aprendizaje profundo y machine learning para mejorar los resultados en sistemas de visión artificial. 
+- Diseñar y desarrollar redes neuronales profundas para procesar datos de imágenes. Python, Tensorflow, Keras. 
+- Evaluar y depurar algoritmos desarrollados de visión artificial para lograr un rendimiento óptimo. Pytest, PyUnit/UnitTest. 
+- Utilizar herramientas de software especializadas para el procesamiento de imágenes. 
+- Optimizar los sistemas de visión artificial para un mejor rendimiento. 
+- Investigar nuevas tendencias y tecnologías de visión artificial. 
     Más información sobre Ebenezer Technologies SAS [Aquí](https://ebenezertechs.com/).
 
 : **Energia Eficiente E2 SA:** (desde Jul 2021)
-    Se desarrollaron tableros informativos con el objetivo de mostrar tendencias enegéticas en tiempo real. Del mismo modo, se muestran predicciones de esas variables con un algo grado de precisión.    
+- Recopilar y procesar grandes volúmenes de datos. 
+- Utilizar herramientas de análisis de datos para generar informes. 
+- Diseñar y desarrollar bases de datos para almacenar los datos recopilados. Bases de datos relacionales SQL y no relacionales MongoDB, InfluxDB. 
+- Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos. Grafana, PowerBI, Tableau, QlikView y D3.js.
+- Realizar análisis predictivos para tomar decisiones informadas. 
+- Desarrollar modelos de minería de datos para detectar patrones y tendencias. 
+- Establecer estándares de seguridad de la información y garantizar la protección de los datos.
     Más información sobre Energia Eficiente SA. [Aquí](https://www.e2energiaeficiente.com/).
 
 -------------------     ----------------------------
@@ -49,8 +63,11 @@ Lenguajes de programación y herramientas técnicas:
 - **Javascript**
 - **Linux**
 - **Python**
+- **SQL** 
+- **InfluxDB** 
+- **Grafana** 
 
-:   Conocimiento intermedio de **AWS**, **Angular**, **Django**, **Flask**, **Keras**, **Pandas**, **Opencv**, **NodeJs**, **TensorFlow**, **Pandas**, **Numpy**, **VHDL**
+:   Conocimiento intermedio de **Angular**, **AWS**, **Azure**, **Django**, **Flask**, **Keras**, **Pandas**, **PowerBI**, **Opencv**, **NodeJs**, **TensorFlow**
 
 Extra:
 ----------------------------------------
