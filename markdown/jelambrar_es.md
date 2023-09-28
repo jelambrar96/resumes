@@ -39,7 +39,7 @@ Experiencia Laboral
 - Investigar nuevas tendencias y tecnologías de visión artificial. 
     Más información sobre Ebenezer Technologies SAS [Aquí](https://ebenezertechs.com/).
 
-: **Energia Eficiente E2 SA:** (desde Jul 2021)
+: **Energia Eficiente E2 SA:** (desde Jul 2021 a Mar 2023)
 - Recopilar y procesar grandes volúmenes de datos. 
 - Utilizar herramientas de análisis de datos para generar informes. 
 - Diseñar y desarrollar bases de datos para almacenar los datos recopilados. Bases de datos relacionales SQL y no relacionales MongoDB, InfluxDB. 
@@ -48,6 +48,14 @@ Experiencia Laboral
 - Desarrollar modelos de minería de datos para detectar patrones y tendencias. 
 - Establecer estándares de seguridad de la información y garantizar la protección de los datos.
     Más información sobre Energia Eficiente SA. [Aquí](https://www.e2energiaeficiente.com/).
+
+: **Pragma SA:** (desde Mar 2023 a Sep 2023)
+- Recopilar, Analizar y procesar datos corporativos. 
+- Construir procesos ETL para obtener análisis de datos corporativos estructurador y no estructurados. 
+- Implementar herramientas de computación en la nube de AWS para el procesamiento de datos estructurados y no estructurados. AWS Lambda, AWS Glue, AWS S3.  
+- Implementar las mejores prácticas de seguridad y un adecuado manejo de roles y permisos de la información almacenada. 
+- Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos. Superset. 
+    Más información sobre Pragma SA. [Aquí](https://www.pragma.com/).  
 
 -------------------     ----------------------------
 
