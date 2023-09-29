@@ -13,8 +13,11 @@ LinkedIn profile:                     [Jorge Lambraño](https://www.linkedin.com
 **About me**  
 I am Electronic Engineer from Universidad del Norte (Barranquilla, Colombia). I have experience on the
 field of Electronic Design and Embedded Systems, and I have skills developing applications
-using C, C++ and Java, as well as strong leadership abilities. Likewise, I am able to
-build and maintain satisfactory interpersonal relationships and assume responsibilities.
+using C, Java, C++, JavaScript and Python.He also has experience in the design and development of algorithms 
+and knowledge of the principles of Data Science, Machine Learning and Data Mining. 
+Additionally, I am familiar with using data visualization tools such as Grafana, PowerBI, Tableau, QlikView and D3.js. 
+I am a worker oriented towards teamwork and leadership, and with the ability to be independent to achieve objectives. 
+Additionally, I have ability to build and maintain satisfactory interpersonal relationships and to assume responsibilities.
 
 -------------------     ----------------------------
 
@@ -36,16 +39,33 @@ Experience
 ----------
 
 :   **Ebenezer Technologies SAS: C++ Developer:** (since Feb 2019 to Jun 2021)   
-    Computer vision system have been developer based on C++ and OpenCV.
-    This system is able to count buses passenger and to process real-time
-    video. In addition, IoT applications and Human-Machine interfaces 
-    have been made in other to automatize parking tasks.    
-    More information about Ebenezer Technologies SAS
-    [Here](https://ebenezertechs.com/).
+- Design and develop of computer vision algorithms to process large amounts of data. C++.
+- Create artificial vision models for object detection and tracking. C++.
+- Implement Deep Learning and Machine Learning techniques to improve results in artificial vision systems.
+- Design and develop Deep Neural Networks to process image data. Python, Tensorflow, Keras.
+- Evaluate and debug developed computer vision algorithms to achieve optimal performance. Pytest, PyUnit/UnitTest.
+- Use specialized software tools for image processing.Opencv. 
+- Optimize artificial vision systems for better performance. 
+- Investigate new trends and artificial vision technologies.
+    More information about Ebenezer Technologies SAS [Here](https://ebenezertechs.com/).
 
-: **Energia Eficiente E2 SA:** (since Jul 2021)    
-    Energy variables such as losses and energy consumption and displayed on dashboard in real time. In addition, this dashboards are able to show predictions of those variables with a high degree of accuracy.    
+: **Energia Eficiente E2 SA:** (since Jul 2021 to Mar 2023)    
+- Collect and process large volumes of data.
+- Use data analysis tools to generate reports.Grafana. 
+- Design and develop databases to store the collected data. SQL relational and non-relational databases MongoDB, InfluxDB.
+- Use data visualization tools to improve data understanding. Grafana, PowerBI, Tableau, QlikView and D3.js.
+- Perform predictive analyzes to make informed decisions.
+- Develop data mining models to detect patterns and trends.
+- Establish information security standards and guarantee data protection.
     More information about Energia Eficiente SA. [Here](https://www.e2energiaeficiente.com/).
+
+: **Pragma SA:** (since Mar 2023 to Sep 2023)    
+- Collect, Analyze and process corporate data.
+- Build ETL processes to obtain structuring and unstructured corporate data analysis.
+- Implement AWS cloud computing tools for processing structured and unstructured data. AWS Lambda, AWS Glue, AWS S3.
+- Implement best security practices and proper management of roles and permissions of stored information.
+- Use data visualization tools to improve data understanding. Superset.
+    More information about Pragma SA. [Here](https://www.pragma.com/).
 
 -------------------     ----------------------------
 
