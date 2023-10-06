@@ -1,5 +1,5 @@
 # Jorge Lambraño
-##  (Desarrollador de Software)
+##  (Desarrollador de Software e Ingeniero de Datos)
 
 
 <img style="float: right;" src="media/jelambrar.jpg" width="180">

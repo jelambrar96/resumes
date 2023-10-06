@@ -1,5 +1,5 @@
-Jorge Lambraño
-============
+# Jorge Lambraño
+##  (Software Developer and Data Engineer)
 
 <img style="float: right;" src="media/jelambrar.jpg" width="180">
 
