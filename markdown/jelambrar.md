@@ -8,6 +8,7 @@ Email adress:                   <jelambrar@gmail.com>
 Telephone:                        (+57) 304-565-3650  
 Github profile:                       [@jelambrar96](https://github.com/jelambrar96)  
 LinkedIn profile:                     [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)
+Portfolio page:                     [jelambrar](https://jelambrar-folio.netlify.app/)
 -------------------     ----------------------------
 
 **About me**  
@@ -38,16 +39,13 @@ Education
 Experience
 ----------
 
-:   **Ebenezer Technologies SAS: C++ Developer:** (since Feb 2019 to Jun 2021)   
-- Design and develop of computer vision algorithms to process large amounts of data. C++.
-- Create artificial vision models for object detection and tracking. C++.
-- Implement Deep Learning and Machine Learning techniques to improve results in artificial vision systems.
-- Design and develop Deep Neural Networks to process image data. Python, Tensorflow, Keras.
-- Evaluate and debug developed computer vision algorithms to achieve optimal performance. Pytest, PyUnit/UnitTest.
-- Use specialized software tools for image processing.Opencv. 
-- Optimize artificial vision systems for better performance. 
-- Investigate new trends and artificial vision technologies.
-    More information about Ebenezer Technologies SAS [Here](https://ebenezertechs.com/).
+: **Pragma SA:** (since Mar 2023 to Sep 2023)    
+- Collect, Analyze and process corporate data.
+- Build ETL processes to obtain structuring and unstructured corporate data analysis.
+- Implement AWS cloud computing tools for processing structured and unstructured data. AWS Lambda, AWS Glue, AWS S3.
+- Implement best security practices and proper management of roles and permissions of stored information.
+- Use data visualization tools to improve data understanding. Superset.
+    More information about Pragma SA. [Here](https://www.pragma.com/).
 
 : **Energia Eficiente E2 SA:** (since Jul 2021 to Mar 2023)    
 - Collect and process large volumes of data.
@@ -59,13 +57,16 @@ Experience
 - Establish information security standards and guarantee data protection.
     More information about Energia Eficiente SA. [Here](https://www.e2energiaeficiente.com/).
 
-: **Pragma SA:** (since Mar 2023 to Sep 2023)    
-- Collect, Analyze and process corporate data.
-- Build ETL processes to obtain structuring and unstructured corporate data analysis.
-- Implement AWS cloud computing tools for processing structured and unstructured data. AWS Lambda, AWS Glue, AWS S3.
-- Implement best security practices and proper management of roles and permissions of stored information.
-- Use data visualization tools to improve data understanding. Superset.
-    More information about Pragma SA. [Here](https://www.pragma.com/).
+:   **Ebenezer Technologies SAS: C++ Developer:** (since Feb 2019 to Jun 2021)   
+- Design and develop of computer vision algorithms to process large amounts of data. C++.
+- Create artificial vision models for object detection and tracking. C++.
+- Implement Deep Learning and Machine Learning techniques to improve results in artificial vision systems.
+- Design and develop Deep Neural Networks to process image data. Python, Tensorflow, Keras.
+- Evaluate and debug developed computer vision algorithms to achieve optimal performance. Pytest, PyUnit/UnitTest.
+- Use specialized software tools for image processing.Opencv. 
+- Optimize artificial vision systems for better performance. 
+- Investigate new trends and artificial vision technologies.
+    More information about Ebenezer Technologies SAS [Here](https://ebenezertechs.com/).
 
 -------------------     ----------------------------
 

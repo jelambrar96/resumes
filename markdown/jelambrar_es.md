@@ -9,6 +9,7 @@ Correo Electrónico:                   <jelambrar@gmail.com>
 Teléfono:                             (+57) 304-565-3650  
 Perfil Github:                        [@jelambrar96](https://github.com/jelambrar96)  
 Perfil LinkedIn:                      [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)
+Portfolio page:                     [jelambrar](https://jelambrar-folio.netlify.app/)
 -------------------     ----------------------------
 
 **Acerca de mi**  
@@ -28,16 +29,13 @@ Educación
 Experiencia Laboral
 ----------
 
-:   **Ebenezer Technologies SAS: C++ Developer:** (desde Feb 2019 a Jun 2021)
-- Diseñar y desarrollar algoritmos de visión artificial para procesar grandes cantidades de datos.C++.  
-- Crear modelos de visión artificial para la detección y seguimiento de objetos. C++. 
-- Implementar técnicas de aprendizaje profundo y machine learning para mejorar los resultados en sistemas de visión artificial. 
-- Diseñar y desarrollar redes neuronales profundas para procesar datos de imágenes. Python, Tensorflow, Keras. 
-- Evaluar y depurar algoritmos desarrollados de visión artificial para lograr un rendimiento óptimo. Pytest, PyUnit/UnitTest. 
-- Utilizar herramientas de software especializadas para el procesamiento de imágenes. 
-- Optimizar los sistemas de visión artificial para un mejor rendimiento. 
-- Investigar nuevas tendencias y tecnologías de visión artificial. 
-    Más información sobre Ebenezer Technologies SAS [Aquí](https://ebenezertechs.com/).
+: **Pragma SA:** (desde Mar 2023 a Sep 2023)
+- Recopilar, Analizar y procesar datos corporativos. 
+- Construir procesos ETL para obtener análisis de datos corporativos estructurador y no estructurados. 
+- Implementar herramientas de computación en la nube de AWS para el procesamiento de datos estructurados y no estructurados. AWS Lambda, AWS Glue, AWS S3.  
+- Implementar las mejores prácticas de seguridad y un adecuado manejo de roles y permisos de la información almacenada. 
+- Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos. Superset. 
+    Más información sobre Pragma SA. [Aquí](https://www.pragma.com/).  
 
 : **Energia Eficiente E2 SA:** (desde Jul 2021 a Mar 2023)
 - Recopilar y procesar grandes volúmenes de datos. 
@@ -49,13 +47,16 @@ Experiencia Laboral
 - Establecer estándares de seguridad de la información y garantizar la protección de los datos.
     Más información sobre Energia Eficiente SA. [Aquí](https://www.e2energiaeficiente.com/).
 
-: **Pragma SA:** (desde Mar 2023 a Sep 2023)
-- Recopilar, Analizar y procesar datos corporativos. 
-- Construir procesos ETL para obtener análisis de datos corporativos estructurador y no estructurados. 
-- Implementar herramientas de computación en la nube de AWS para el procesamiento de datos estructurados y no estructurados. AWS Lambda, AWS Glue, AWS S3.  
-- Implementar las mejores prácticas de seguridad y un adecuado manejo de roles y permisos de la información almacenada. 
-- Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos. Superset. 
-    Más información sobre Pragma SA. [Aquí](https://www.pragma.com/).  
+:   **Ebenezer Technologies SAS: C++ Developer:** (desde Feb 2019 a Jun 2021)
+- Diseñar y desarrollar algoritmos de visión artificial para procesar grandes cantidades de datos.C++.  
+- Crear modelos de visión artificial para la detección y seguimiento de objetos. C++. 
+- Implementar técnicas de aprendizaje profundo y machine learning para mejorar los resultados en sistemas de visión artificial. 
+- Diseñar y desarrollar redes neuronales profundas para procesar datos de imágenes. Python, Tensorflow, Keras. 
+- Evaluar y depurar algoritmos desarrollados de visión artificial para lograr un rendimiento óptimo. Pytest, PyUnit/UnitTest. 
+- Utilizar herramientas de software especializadas para el procesamiento de imágenes. 
+- Optimizar los sistemas de visión artificial para un mejor rendimiento. 
+- Investigar nuevas tendencias y tecnologías de visión artificial. 
+    Más información sobre Ebenezer Technologies SAS [Aquí](https://ebenezertechs.com/).
 
 -------------------     ----------------------------
 
