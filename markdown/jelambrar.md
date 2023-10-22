@@ -1,14 +1,14 @@
 # Jorge Lambraño
 ##  (Software Developer and Data Engineer)
 
-<img style="float: right;" src="media/jelambrar.jpg" width="180">
+<img style="float: right;" src="media/jelambrar.jpg" width="140">
 
 -------------------     ----------------------------
 Email adress:                   <jelambrar@gmail.com>  
 Telephone:                        (+57) 304-565-3650  
 Github profile:                       [@jelambrar96](https://github.com/jelambrar96)  
-LinkedIn profile:                     [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)
-Portfolio page:                     [jelambrar](https://jelambrar-folio.netlify.app/)
+LinkedIn profile:                     [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)  
+Portfolio page:                     [jelambrar](https://jelambrar-folio.netlify.app/)  
 -------------------     ----------------------------
 
 **About me**  

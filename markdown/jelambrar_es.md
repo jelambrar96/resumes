@@ -2,14 +2,14 @@
 ##  (Desarrollador de Software e Ingeniero de Datos)
 
 
-<img style="float: right;" src="media/jelambrar.jpg" width="180">
+<img style="float: right;" src="media/jelambrar.jpg" width="140">
 
 -------------------     ----------------------------
 Correo Electrónico:                   <jelambrar@gmail.com>  
 Teléfono:                             (+57) 304-565-3650  
 Perfil Github:                        [@jelambrar96](https://github.com/jelambrar96)  
-Perfil LinkedIn:                      [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)
-Portfolio page:                     [jelambrar](https://jelambrar-folio.netlify.app/)
+Perfil LinkedIn:                      [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)  
+Portfolio page:                     [jelambrar](https://jelambrar-folio.netlify.app/)  
 -------------------     ----------------------------
 
 **Acerca de mi**  
