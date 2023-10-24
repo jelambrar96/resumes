@@ -82,9 +82,11 @@ Programming Languages and Technicals tools
 - **Javascript**
 - **Linux**
 - **Python**
+- **React**
+- **SQL**
 
 :   Intermediate knowledge of **AWS**, **Angular**, **Django**,
-    **Flask**, **Keras**, **Pandas**, **Opencv**,
+    **Flask**, **Keras**, **Pandas**, **Opencv**, **React Native**,
     **NodeJs**, **TensorFlow**, **Pandas**, **Numpy**, **VHDL**
 
 Extra Section
