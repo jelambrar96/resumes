@@ -13,8 +13,8 @@ Portfolio page:                     [jelambrar](https://jelambrar-folio.netlify.
 
 **About me**  
 I am Electronic Engineer from Universidad del Norte (Barranquilla, Colombia). I have experience on the
-field of Electronic Design and Embedded Systems, and I have skills developing applications
-using C, Java, C++, JavaScript and Python.He also has experience in the design and development of algorithms 
+field of Sofware development, and I have skills developing applications
+using C, Java, C++, JavaScript, React and Python.He also has experience in the design and development of algorithms 
 and knowledge of the principles of Data Science, Machine Learning and Data Mining. 
 Additionally, I am familiar with using data visualization tools such as Grafana, PowerBI, Tableau, QlikView and D3.js. 
 I am a worker oriented towards teamwork and leadership, and with the ability to be independent to achieve objectives. 
