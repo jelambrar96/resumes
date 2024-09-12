@@ -14,9 +14,9 @@ Portfolio page:                     [https://jelambrar-folio.netlify.app](https:
 **About me**  
 I am Electronic Engineer from Universidad del Norte (Barranquilla, Colombia). I have experience on the
 field of Sofware development, and I have skills developing applications
-using C, Java, C++, JavaScript, React and Python.He also has experience in the design and development of algorithms 
+using **Python**, C, C++, Java and JavaScript. He also has experience in the design and development of algorithms 
 and knowledge of the principles of Data Science, Machine Learning and Data Mining. 
-Additionally, I am familiar with using data visualization tools such as Grafana, PowerBI, Tableau and Superset. 
+Additionally, I am familiar with using data visualization tools such as **Grafana**, **Tableau**, PowerBI and Superset. 
 
 -------------------     ----------------------------
 
@@ -37,42 +37,42 @@ Education
 Experience
 ----------
 
-: **Alcaldía de Barranquilla: Instructor de programación backend con Python de los centros CATIN** (since Feb 2024)
-- Develop and organize educational programs tailored to the development of Python programming skills and computational thinking.
-- Explain complex concepts in a clear and comprehensible manner.
-- Create tests and projects to assess understanding and application of knowledge.
-- Manage group dynamics and problem-solving in the classroom.
-- Promote analysis and problem-solving through programming, as well as autonomous learning.
-- Connect teaching tools and methods with the latest software development technologies.
+: **Alcaldía de Barranquilla: Backend programming instructor with Python** (since Feb 2024)
+    - Develop and organize educational programs tailored to the development of Python programming skills and computational thinking.
+    - Explain complex concepts in a clear and comprehensible manner.
+    - Create tests and projects to assess understanding and application of knowledge.
+    - Manage group dynamics and problem-solving in the classroom.
+    - Promote analysis and problem-solving through programming, as well as autonomous learning.
+    - Connect teaching tools and methods with the latest software development technologies.
 
 : **Pragma SA:** (since Mar 2023 to Sep 2023)    
-- Collect, Analyze and process corporate data.
-- Build ETL processes to obtain structuring and unstructured corporate data analysis.
-- Implement AWS cloud computing tools for processing structured and unstructured data. AWS Lambda, AWS Glue, AWS S3.
-- Implement best security practices and proper management of roles and permissions of stored information.
-- Use data visualization tools to improve data understanding. Superset.
-    More information about Pragma SA. [Here](https://www.pragma.com/).
+  - Collect, Analyze and process corporate data.
+  - Build ETL processes to obtain structuring and unstructured corporate data analysis.
+  - Implement AWS cloud computing tools for processing structured and unstructured data. AWS Lambda, AWS Glue, AWS S3.
+  - Implement best security practices and proper management of roles and permissions of stored information.
+  - Use data visualization tools to improve data understanding. Superset.
+  - More information about Pragma SA. [Here](https://www.pragma.com/).
 
 : **Energia Eficiente E2 SA: Backend Developer** (since Jul 2021 to Mar 2023)    
-- Collect and process large volumes of data.
-- Use data analysis tools to generate reports.Grafana. 
-- Design and develop databases to store the collected data. SQL relational and non-relational databases MongoDB, InfluxDB.
-- Use data visualization tools to improve data understanding. Grafana, PowerBI, Tableau, QlikView and D3.js.
-- Perform predictive analyzes to make informed decisions.
-- Develop data mining models to detect patterns and trends.
-- Establish information security standards and guarantee data protection.
-    More information about Energia Eficiente SA. [Here](https://www.e2energiaeficiente.com/).
+  - Collect and process large volumes of data.
+  - Use data analysis tools to generate reports.Grafana. 
+  - Design and develop databases to store the collected data. SQL relational and non-relational databases MongoDB, InfluxDB.
+  - Use data visualization tools to improve data understanding. Grafana, PowerBI, Tableau, QlikView and D3.js.
+  - Perform predictive analyzes to make informed decisions.
+  - Develop data mining models to detect patterns and trends.
+  - Establish information security standards and guarantee data protection.
+  - More information about E2 Energia Eficiente SA. [Here](https://www.e2energiaeficiente.com/).
 
 :   **Ebenezer Technologies SAS: C++ Developer:** (since Feb 2019 to Jun 2021)   
-- Design and develop of computer vision algorithms to process large amounts of data. C++.
-- Create artificial vision models for object detection and tracking. C++.
-- Implement Deep Learning and Machine Learning techniques to improve results in artificial vision systems.
-- Design and develop Deep Neural Networks to process image data. Python, Tensorflow, Keras.
-- Evaluate and debug developed computer vision algorithms to achieve optimal performance. Pytest, PyUnit/UnitTest.
-- Use specialized software tools for image processing.Opencv. 
-- Optimize artificial vision systems for better performance. 
-- Investigate new trends and artificial vision technologies.
-    More information about Ebenezer Technologies SAS [Here](https://ebenezertechs.com/).
+  - Design and develop of computer vision algorithms to process large amounts of data. C++.
+  - Create artificial vision models for object detection and tracking. C++.
+  - Implement Deep Learning and Machine Learning techniques to improve results in artificial vision systems.
+  - Design and develop Deep Neural Networks to process image data. Python, Tensorflow, Keras.
+  - Evaluate and debug developed computer vision algorithms to achieve optimal performance. Pytest, PyUnit/UnitTest.
+  - Use specialized software tools for image processing.Opencv. 
+  - Optimize artificial vision systems for better performance. 
+  - Investigate new trends and artificial vision technologies.
+  - More information about Ebenezer Technologies SAS [Here](https://ebenezertechs.com/).
 
 -------------------     ----------------------------
 
@@ -203,22 +203,32 @@ Other certifications
 Another insteresting projects
 ----------------------------------------
 
+: **mlops-zoomcamp-project** (August 2024) 
+This repository provides a solution for predicting taxi trip durations in New York City using machine learning and MLOps practices. The project leverages the NYC Taxi trip record data and applies machine learning models such as Linear Regression, Lasso, Gradient Boosting, and Random Forest to predict trip durations. The solution integrates tools like Airflow for workflow orchestration, MLflow for experiment tracking and model registry, Flask for API deployment, and LocalStack to simulate cloud storage. The code quality is maintained using Pylint, Black, and Isort, while Pytest and Unittest are used for testing.
+
+Project link [Here](https://github.com/jelambrar96-datatalks/data_engineer_zoomcamp_project_jelambrar96).
+
 : **Data_engineer_zoomcamp_project_jelambrar96** (April 2024) 
 Implementation of a cloud-based solution for massive event analysis on the GitHub platform using data from gharchive.org. The project involved designing and developing a scalable and distributed data processing infrastructure on Google Cloud Platform (GCP), using tools such as Apache Hadoop, Spark, and BigQuery, along with workflow orchestration in Google Cloud Composer (Airflow). It also utilized Infrastructure as Code (IaC) tools with Terraform, ensuring the reproducibility and scalability of the data environment.  
-Project link [Here](https://github.com/jelambrar96/data_engineer_zoomcamp_project_jelambrar96).
+
+Project repository link [Here](https://github.com/jelambrar96-datatalks/data_engineer_zoomcamp_project_jelambrar96).
 
 : **Python Programming Course Repository** (January 2024)
 Repository dedicated to the educational content of the Python programming course. It includes detailed materials such as study guides, commented code examples, and additional resources. This course covers from basic concepts of structured programming to advanced techniques, providing a solid and comprehensive foundation for students.  
-Project link [Here](https://github.com/jelambrar96/curso_python).
+
+Project repository link [Here](https://github.com/jelambrar96/curso_python).
 
 **Python Programming Challenges** (January 2024)
 Repository presenting a series of Python programming challenges, designed to enhance students' problem-solving skills and critical thinking. Each challenge is designed to apply and reinforce specific knowledge gained during the course, thus promoting a deeper and more practical understanding of Python programming.  
-Project link [Here](https://github.com/jelambrar96/retos_programacion_python_barranquilla_2024).
+
+Project repository link [Here](https://github.com/jelambrar96/retos_programacion_python_barranquilla_2024).
 
 : **Data science applied to passenger land transport in colombia** (Sep 2021)  
 This project seeks to develop a computational approach based on data science techniques to forecast passenger demand in different bus terminals and routes on Colombia. Passenger transportation companies can find the application useful to make decisions on fleet allocation. Based-python tools were applied: Pandas, Jupyter, Plotly and TensorFlow.   
+
 More infomation about this project [Here](https://github.com/andiazo/ds4a_team81).
 
 : **Single Page Application. Animal Care Fundation** (Aug 2021)  
 This application is able to store and display data from an animal care fundation, such as information of each pet, pet care, supplies and costs. Tools like Javascript, MongoDB, NodeJs, ReactJS were applied.  
+
 More information about this project [Here](https://github.com/srendonv/animal-care-foundation).
