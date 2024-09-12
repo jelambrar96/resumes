@@ -38,14 +38,14 @@ Experience
 ----------
 
 : **Alcaldía de Barranquilla: Backend programming instructor with Python** (since Feb 2024)
-    - Develop and organize educational programs tailored to the development of Python programming skills and computational thinking.
-    - Explain complex concepts in a clear and comprehensible manner.
-    - Create tests and projects to assess understanding and application of knowledge.
-    - Manage group dynamics and problem-solving in the classroom.
-    - Promote analysis and problem-solving through programming, as well as autonomous learning.
-    - Connect teaching tools and methods with the latest software development technologies.
+  - Develop and organize educational programs tailored to the development of Python programming skills and computational thinking.
+  - Explain complex concepts in a clear and comprehensible manner.
+  - Create tests and projects to assess understanding and application of knowledge.
+  - Manage group dynamics and problem-solving in the classroom.
+  - Promote analysis and problem-solving through programming, as well as autonomous learning.
+  - Connect teaching tools and methods with the latest software development technologies.
 
-: **Pragma SA:** (since Mar 2023 to Sep 2023)    
+: **Pragma SA: Data Enginer** (since Mar 2023 to Sep 2023)    
   - Collect, Analyze and process corporate data.
   - Build ETL processes to obtain structuring and unstructured corporate data analysis.
   - Implement AWS cloud computing tools for processing structured and unstructured data. AWS Lambda, AWS Glue, AWS S3.
@@ -99,7 +99,11 @@ Programming Languages and Technicals tools
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) -->
 
-
+#### Data visualizacion
+![](https://img.shields.io/badge/Grafana-DataVisualization-informational?style=flat&logo=grafana&color=F46800&logoColor=F46800)
+![](https://img.shields.io/badge/Tableau-DataVisualization-informational?style=flat&logo=tableau&color=blue&logoColor=blue)
+![](https://img.shields.io/badge/PowerBI-DataVisualization-informational?style=flat&logo=powerbi&color=F2C811&logoColor=F2C811)
+![](https://img.shields.io/badge/Superset-DataVisualization-informational?style=flat&logo=apache+superset&color=20A6C9&logoColor=20A6C9)
 
 
 #### Database
@@ -157,8 +161,7 @@ Programming Languages and Technicals tools
 ![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&color=blue)
 ![](https://img.shields.io/badge/Tools-JupyterNotebook-informational?style=flat&logo=jupyter&color=orange)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)
-![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&color=F46800&logoColor=F46800)
-![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&color=F2C811&logoColor=F2C811)
+
 
 
 
