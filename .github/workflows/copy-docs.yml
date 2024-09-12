@@ -13,32 +13,47 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+name: Copy Markdown to gh-pages
+
+on:
+  push:
+    branches:
+      - master  # Trigger the workflow on push to the master branch
+
 jobs:
   copy-file:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
-      - name: Checkout code
+      # Step 1: Checkout the master branch
+      - name: Checkout master branch
         uses: actions/checkout@v3
+        with:
+          ref: master  # Specify that we are checking out the master branch
 
-      # Ensure the docs directory exists and copy the file
+      # Step 2: Copy the markdown/jelambrar.md file to docs/ directory
       - name: Create docs directory and copy file
         run: |
           mkdir -p docs
           cp markdown/jelambrar.md docs/jelambrar.md
 
-      # Commit the changes
-      - name: Commit changes
+      # Step 3: Checkout the gh-pages branch
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages  # Specify that we are checking out the gh-pages branch
+
+      # Step 4: Copy the modified docs/ directory from master to gh-pages
+      - name: Copy docs to gh-pages
+        run: |
+          git checkout master -- docs/jelambrar.md
+
+      # Step 5: Commit and push changes to gh-pages branch
+      - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/jelambrar.md
-          git commit -m "Copy jelambrar.md to docs"
-          git push
+          git commit -m "Update jelambrar.md from master to gh-pages"
+          git push origin gh-pages
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
