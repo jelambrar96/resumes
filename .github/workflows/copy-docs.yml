@@ -28,7 +28,7 @@ jobs:
       - name: Create docs directory and copy file
         run: |
           mkdir -p docs
-          cp markdown/jelambrar.md docs/jelambrar.md.bak
+          cp markdown/jelambrar.md /tmp/jelambrar.md
 
       # Step 3: Checkout the gh-pages branch
       - name: Checkout gh-pages branch
@@ -39,7 +39,7 @@ jobs:
       # Step 4: Copy the modified docs/ directory from main to gh-pages
       - name: Copy docs to gh-pages
         run: |
-          cp docs/jelambrar.md.bak docs/jelambrar.md
+          cp /tmp/jelambrar.md docs/jelambrar.md
 
       # Step 5: Commit and push changes to gh-pages branch
       - name: Commit and push changes
