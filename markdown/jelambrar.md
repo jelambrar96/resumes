@@ -1,7 +1,7 @@
 # Jorge Lambraño
 ##  Software Developer and Data Engineer
 
-<img style="float: right;" src="media/qr-code.png" width="140"> 
+<img style="float: right;" src="https://github.com/jelambrar96/resumes/blob/master/markdown/media/qr-code.png" width="140"> 
 
 -------------------     ----------------------------
 Email adress:                   <jelambrar@gmail.com>  
