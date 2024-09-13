@@ -18,13 +18,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the master branch
-      - name: Checkout master branch
+      # Step 1: Checkout the main branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: master  # Specify that we are checking out the master branch
+          ref: main  # Specify that we are checking out the main branch
 
-      # Step 2: Copy the markdown/jelambrar.md file to docs/ directory
+      # Step 2: Create docs directory and copy file
       - name: Create docs directory and copy file
         run: |
           mkdir -p docs
@@ -36,16 +36,16 @@ jobs:
         with:
           ref: gh-pages  # Specify that we are checking out the gh-pages branch
 
-      # Step 4: Copy the modified docs/ directory from master to gh-pages
+      # Step 4: Copy the modified docs/ directory from main to gh-pages
       - name: Copy docs to gh-pages
         run: |
-          git checkout master -- docs/jelambrar.md
+          cp docs/jelambrar.md .
 
       # Step 5: Commit and push changes to gh-pages branch
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/jelambrar.md
-          git commit -m "Update jelambrar.md from master to gh-pages"
+          git add jelambrar.md
+          git commit -m "Update jelambrar.md from main to gh-pages"
           git push origin gh-pages
