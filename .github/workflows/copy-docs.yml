@@ -28,7 +28,7 @@ jobs:
       - name: Create docs directory and copy file
         run: |
           mkdir -p docs
-          cp markdown/jelambrar.md docs/jelambrar.md
+          cp markdown/jelambrar.md docs/jelambrar.md.bak
 
       # Step 3: Checkout the gh-pages branch
       - name: Checkout gh-pages branch
@@ -39,13 +39,13 @@ jobs:
       # Step 4: Copy the modified docs/ directory from main to gh-pages
       - name: Copy docs to gh-pages
         run: |
-          cp docs/jelambrar.md .
+          cp docs/jelambrar.md.bak docs/jelambrar.md
 
       # Step 5: Commit and push changes to gh-pages branch
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add jelambrar.md
+          git add docs/jelambrar.md
           git commit -m "Update jelambrar.md from master to gh-pages"
           git push origin gh-pages
