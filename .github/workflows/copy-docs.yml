@@ -13,13 +13,6 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-name: Copy Markdown to gh-pages
-
-on:
-  push:
-    branches:
-      - master  # Trigger the workflow on push to the master branch
-
 jobs:
   copy-file:
     runs-on: ubuntu-latest
@@ -56,4 +49,3 @@ jobs:
           git add docs/jelambrar.md
           git commit -m "Update jelambrar.md from master to gh-pages"
           git push origin gh-pages
-
