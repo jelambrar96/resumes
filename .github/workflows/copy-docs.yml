@@ -18,11 +18,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the main branch
-      - name: Checkout main branch
+      # Step 1: Checkout the master branch
+      - name: Checkout master branch
         uses: actions/checkout@v3
         with:
-          ref: main  # Specify that we are checking out the main branch
+          ref: master  # Specify that we are checking out the master branch
 
       # Step 2: Create docs directory and copy file
       - name: Create docs directory and copy file
@@ -47,5 +47,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add jelambrar.md
-          git commit -m "Update jelambrar.md from main to gh-pages"
+          git commit -m "Update jelambrar.md from master to gh-pages"
           git push origin gh-pages
