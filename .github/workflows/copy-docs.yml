@@ -41,6 +41,7 @@ jobs:
         run: |
           mkdir -p docs          
           cp /tmp/jelambrar.md docs/jelambrar.md
+          cp /tmp/jelambrar.md docs/README.md
 
       # Step 5: Commit and push changes to gh-pages branch
       - name: Commit and push changes
