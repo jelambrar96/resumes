@@ -1,0 +1,54 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "master" branch
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the master branch
+      - name: Checkout master branch
+        uses: actions/checkout@v3
+        with:
+          ref: master  # Specify that we are checking out the master branch
+
+      # Step 2: Create docs directory and copy file
+      - name: Create docs directory and copy file
+        run: |
+          mkdir -p docs
+          cp markdown/jelambrar.md /tmp/jelambrar.md
+
+      # Step 3: Checkout the gh-pages branch
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages  # Specify that we are checking out the gh-pages branch
+
+      # Step 4: Copy the modified docs/ directory from main to gh-pages
+      - name: Copy docs to gh-pages
+        run: |
+          mkdir -p docs          
+          cp /tmp/jelambrar.md docs/jelambrar.md
+          cp /tmp/jelambrar.md docs/README.md
+
+      # Step 5: Commit and push changes to gh-pages branch
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/jelambrar.md
+          git add docs/README.md
+          git commit -m "Update jelambrar.md from master to gh-pages"
+          git push origin gh-pages
