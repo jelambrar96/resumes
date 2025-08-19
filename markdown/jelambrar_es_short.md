@@ -9,7 +9,6 @@ Teléfono:                             (+57) 3045653650
 Perfil Github:                        [@jelambrar96](https://github.com/jelambrar96)  
 Perfil LinkedIn:                      [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)  
 Portfolio page:                       [https://jelambrar-folio.netlify.app](https://jelambrar-folio.netlify.app/)  
-Perfil Excercism:                     [jelambrar96](https://exercism.org/profiles/jelambrar96)
 -------------------     ----------------------------
 
 **Acerca de mi**  
@@ -29,47 +28,27 @@ Educación
 Experiencia Laboral
 ----------
 
+
 : **[Promigas SA](https://www.promigas.com): Profesional en Gestión de Datos** (desde Diciembere 2025 a Julio 2025)
-- Extraer y procesar grandes volúmenes de datos geográficos y de potencial energético. Y posteriormente, realizar cruces con diversas fuentes internas y externas para mejorar el contexto y precisión de la información.
 - Desarrollar e implementar modelos de recomendación de productos y servicios adaptados a las necesidades de los clientes.
 - Análizar datos de consumo para identificar patrones de comportamiento y oportunidades de optimización.
 - Elaboración de tableros, reportes y visualizaciones interactivas para comunicar hallazgos a las áreas de negocio.
-- Colaborar con equipos multidisciplinarios para integrar soluciones basadas en datos a procesos operativos y comerciales.
 
 : **[Alcaldía de Barranquilla](https://barranquilla.gov.co/gerencia-tic/catin): Instructor de programación backend con Python de los centros CATIN** (desde Febrero 2024 a Diciembre 2024)
-- Desarrollar y estructurar de programas educativos ajustados al desarrollo de habilidades de programaciónen python y al desarrollo del pensamiento computacional.
-- Explicar conceptos complejos de manera clara y comprensible.
-- Crear pruebas y proyectos para evaluar la comprensión y aplicación del conocimiento por parte de los estudiantes.
-- Maneja las dinámicas de grupo y resolución de problemas que se presenten en el aula.
-- Fomentar el análisis y la resolución de problemas mediante la programación, así como el aprendizaje autónomo.
-- Conectar herramientas y métodos de enseñanza con las últimas tecnologías del desarrollo de software.
 
 : **[Pragma SA](https://www.pragma.com/): Ingeniero de datos** (desde Marzo 2023 a Septiembre 2023)
-- Recopilar, Analizar y procesar datos corporativos. 
-- Construir procesos ETL para obtener análisis de datos corporativos estructurador y no estructurados. 
+- Construir procesos ETL para la recolpilación y análisis de datos corporativos estructurados y no estructurados. 
 - Implementar herramientas de computación en la nube de AWS para el procesamiento de datos estructurados y no estructurados. AWS Lambda, AWS Glue, AWS S3.  
-- Implementar las mejores prácticas de seguridad y un adecuado manejo de roles y permisos de la información almacenada. 
-- Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos. Superset.
 
 : **[E2 Energia Eficiente SA](https://www.e2energiaeficiente.com/): Desarrollador Backend** (desde Julio 2021 a Marzo 2023)
-- Recopilar y procesar grandes volúmenes de datos. 
-- Utilizar herramientas de análisis de datos para generar informes. 
-- Diseñar y desarrollar bases de datos para almacenar los datos recopilados. Bases de datos relacionales SQL y no relacionales MongoDB, InfluxDB. 
-- Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos. Grafana, PowerBI, Tableau, QlikView y D3.js.
-- Realizar análisis predictivos para tomar decisiones informadas. 
-- Desarrollar modelos de minería de datos para detectar patrones y tendencias. 
-- Establecer estándares de seguridad de la información y garantizar la protección de los datos.  
+- Diseñar y desarrollar bases de datos para almacenar los datos de variables energéticas e industriales. Bases de datos relacionales SQL y no relacionales MongoDB, InfluxDB. 
+- Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos energéticos e industriales. Grafana, PowerBI, Tableau, QlikView y D3.js.
+- Realizar análisis predictivos de datos energéticos para tomar decisiones informadas, junto con modelos de minería de datos para detectar patrones y tendencias. 
 
 :   **[Ebenezer Technologies SAS](https://ebenezertechs.com/): C++ Developer** (desde Febrero 2019 a Junio 2021)
 - Diseñar y desarrollar algoritmos de visión artificial para procesar grandes cantidades de datos.C++.  
 - Crear modelos de visión artificial para la detección y seguimiento de objetos. C++. 
-- Implementar técnicas de aprendizaje profundo y machine learning para mejorar los resultados en sistemas de visión artificial. 
-- Diseñar y desarrollar redes neuronales profundas para procesar datos de imágenes. Python, Tensorflow, Keras. 
-- Evaluar y depurar algoritmos desarrollados de visión artificial para lograr un rendimiento óptimo. Pytest, PyUnit/UnitTest. 
-- Utilizar herramientas de software especializadas para el procesamiento de imágenes. 
-- Optimizar los sistemas de visión artificial para un mejor rendimiento. 
-- Investigar nuevas tendencias y tecnologías de visión artificial.  
-
+- Implementar técnicas de aprendizaje profundo y machine learning para mejorar los resultados en sistemas de visión artificial.  Python, Tensorflow, Keras.
 
 -------------------     ----------------------------
 
@@ -78,17 +57,11 @@ Habilidades
 
 #### Backend
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=blue)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D&logoColor=CC342D)
-![](https://img.shields.io/badge/Framework-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000&logoColor=CC0000)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=009688)
 ![](https://img.shields.io/badge/Framework-NodeJS-informational?style=flat&logo=node.js&color=379037)
 ![](https://img.shields.io/badge/Framework-NodeRED-informational?style=flat&logo=node-red&color=red)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=red)
-![](https://img.shields.io/badge/Framework-Sping-informational?style=flat&logo=spring&color=6DB33F&logoColor=6DB33F) 
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8&logoColor=00ADD8)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=7F52FF&logoColor=7F52FF)
 
 #### Database
 ![](https://img.shields.io/badge/DB-AmazonDynamoDB-informational?style=flag&logo=Amazon%20DynamoDB&color=orange)
@@ -102,25 +75,17 @@ Habilidades
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-GPC-informational?style=flat&logo=google-cloud&logoColor=white&color=green)
 
-#### FrontEnd
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
 #### Aditional Programming Languages
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=green&color=green)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Code-Shell_Script-informational?style=flat&logo=gnu-bash&logoColor=white)
 
-
 #### Machine Learning and IA tools
-
 
 ![](https://img.shields.io/badge/DL-Keras-information?style=flag&logo=Keras&logoColor=red&color=red)
 ![](https://img.shields.io/badge/ML-Matplotlib-information?style=flag&logo=Matplotlib&color=yellow&logoColor=yellow)
@@ -134,7 +99,6 @@ Habilidades
 
 #### Aditional tools
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
@@ -146,7 +110,6 @@ Habilidades
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)
 ![](https://img.shields.io/badge/Tools-Grafana-informational?style=flat&logo=grafana&color=F46800&logoColor=F46800)
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=powerbi&color=F2C811&logoColor=F2C811)
-
 
 
 Extra:
@@ -165,38 +128,15 @@ Otros cursos y certificaciones
 * **Azure Data Fundamentals DP-900** Certificación. (Julio 2025)
     Microsoft
 
-* **Machine Learning Zoomcamp** Bootcamp. (Febrero 2025)
-    DataTalks. 
-
 * **MLops Zoocamp** Bootcamp. (Octubre 2024)
     DataTalks. 
 
 * **LLM Zoomcamp** Bootcamp. (Septiembre 2024)
     DataTalks. 
 
-* **Data Engineer Zoomcamp:** Bootcamp. (Abril 2024) 
+*   **Data Engineer Zoomcamp:** Bootcamp. (Abr 2024) 
     DataTalks. 
 
-*   **DS4A Colombia 2021:** Curso. (Septiembre 2021) 
-
-
-*   **Habilidades Digitales de Programación de Misión TIC 2022:** Curso. (Diciembre 2020)
-
-*   **NDG Linux Essentials:** Curso. (Febrero 2018)  
-    Cisco Networking Academy.
-
-*   **Introduction to IoT**. Curso (Octubre 2017)  
-    Cisco Networking Academy.
-
-*   **Uso de clases, objetos, Métodos Y archivos secuenciales en POO con lenguaje de programación C++ (Nivel III):** Curso (Octubre 2015)    
-    Servicio Nacional de Aprendizaje - SENA
-
-*   **Módulos, estructura de almacenamiento y POO utilizando el lenguaje de programación C++ (Nivel II):** Curso (Octubre 2015)  
-    Servicio Nacional de Aprendizaje - SENA
-
-*   **Estructura del lenguaje de programación C++ (Nivel I):** Curso (Mayo 2015)  
-     Servicio Nacional de Aprendizaje - SENA
- 
 -------------------     ----------------------
 
 Algunos proyectos interesantes
@@ -213,10 +153,3 @@ Implementación de una solución en la nube de análisis masivo de eventos en la
 
 : **[Repositorio Curso de programación Python](https://github.com/jelambrar96/curso_python)** (Enero 2024)
 Repositorio dedicado al contenido educativo del curso de programación en Python. Incluye materiales detallados como guías de estudio, ejemplos de código comentados y recursos adicionales. Este curso cubre desde conceptos básicos de programación estructurada hasta técnicas avanzadas, proporcionando una base sólida y comprensiva para los estudiantes.  
-
-**[Retos de programación python](https://github.com/jelambrar96/retos_programacion_python_barranquilla_2024)** (Enero 2024)
-Repositorio que presenta una serie de desafíos de programación en Python, diseñados para mejorar las habilidades de resolución de problemas y pensamiento crítico de los estudiantes. Cada reto está diseñado para aplicar y reforzar conocimientos específicos adquiridos durante el curso, promoviendo así una comprensión más profunda y práctica de la programación en Python.  
-
-: **[Data science applied to passenger land transport in Colombia](https://github.com/andiazo/ds4a_team81)** (Sep 2021) 
-Este proyecto busca desarrollar un enfoque computacional basado en técnicas de ciencia de datos para pronosticar la demanda de pasajeros en diferentes terminales de buses y rutas en Colombia. Las empresas de transporte de pasajeros pueden encontrar útil la aplicación para tomar decisiones sobre la asignación de flotas. Se aplicaron herramientas basadas en Python: Pandas, Jupyter, Plotly y TensorFlow.   
-
