@@ -25,6 +25,9 @@ Educación
     Se optimizó un sistema de visión por computadora para medir y extraer características basicas de las olas oceánicas con el objetivo de ser ejecutadas en dispositivos de cómputo de mediano nivel. Se desarrollaron nuevas características usando frameworks basados en C y python como numpy, scipy y opencv.
 
 
+-------------------     ----------------------------
+
+
 Experiencia Laboral
 ----------
 
@@ -37,7 +40,7 @@ Experiencia Laboral
 : **[Alcaldía de Barranquilla](https://barranquilla.gov.co/gerencia-tic/catin): Instructor de programación backend con Python de los centros CATIN** (desde Febrero 2024 a Diciembre 2024)
 
 : **[Pragma SA](https://www.pragma.com/): Ingeniero de datos** (desde Marzo 2023 a Septiembre 2023)
-- Construir procesos ETL para la recolpilación y análisis de datos corporativos estructurados y no estructurados. 
+- Construir procesos ETL para obtener análisis de datos corporativos estructurados y no estructurados. 
 - Implementar herramientas de computación en la nube de AWS para el procesamiento de datos estructurados y no estructurados. AWS Lambda, AWS Glue, AWS S3.  
 
 : **[E2 Energia Eficiente SA](https://www.e2energiaeficiente.com/): Desarrollador Backend** (desde Julio 2021 a Marzo 2023)

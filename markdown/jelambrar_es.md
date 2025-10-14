@@ -25,6 +25,7 @@ Educación
     **Tesis: Optimización de un sistema de procesamiento de imágenes por radar.**
     Se optimizó un sistema de visión por computadora para medir y extraer características basicas de las olas oceánicas con el objetivo de ser ejecutadas en dispositivos de cómputo de mediano nivel. Se desarrollaron nuevas características usando frameworks basados en C y python como numpy, scipy y opencv.
 
+-------------------     ----------------------------
 
 Experiencia Laboral
 ----------
@@ -37,7 +38,7 @@ Experiencia Laboral
 - Colaborar con equipos multidisciplinarios para integrar soluciones basadas en datos a procesos operativos y comerciales.
 
 : **[Alcaldía de Barranquilla](https://barranquilla.gov.co/gerencia-tic/catin): Instructor de programación backend con Python de los centros CATIN** (desde Febrero 2024 a Diciembre 2024)
-- Desarrollar y estructurar de programas educativos ajustados al desarrollo de habilidades de programaciónen python y al desarrollo del pensamiento computacional.
+- Desarrollar y estructurar programas educativos ajustados al desarrollo de habilidades de programaciónen Python y al desarrollo del pensamiento computacional.
 - Explicar conceptos complejos de manera clara y comprensible.
 - Crear pruebas y proyectos para evaluar la comprensión y aplicación del conocimiento por parte de los estudiantes.
 - Maneja las dinámicas de grupo y resolución de problemas que se presenten en el aula.
@@ -46,7 +47,7 @@ Experiencia Laboral
 
 : **[Pragma SA](https://www.pragma.com/): Ingeniero de datos** (desde Marzo 2023 a Septiembre 2023)
 - Recopilar, Analizar y procesar datos corporativos. 
-- Construir procesos ETL para obtener análisis de datos corporativos estructurador y no estructurados. 
+- Construir procesos ETL para obtener análisis de datos corporativos estructurados y no estructurados. 
 - Implementar herramientas de computación en la nube de AWS para el procesamiento de datos estructurados y no estructurados. AWS Lambda, AWS Glue, AWS S3.  
 - Implementar las mejores prácticas de seguridad y un adecuado manejo de roles y permisos de la información almacenada. 
 - Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos. Superset.

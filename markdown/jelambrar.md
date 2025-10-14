@@ -37,7 +37,17 @@ Education
 Experience
 ----------
 
-: **Alcaldía de Barranquilla: Backend programming instructor with Python** (since Feb 2024)
+: **Promigas SA: Data Management Professional** (from Dec 2024 to Jul 2025)
+
+  - Extract and process large volumes of geographic and energy potential data. 
+  Subsequently, cross-reference the information with various internal and external sources to enhance its context and accuracy.
+  - Develop and implement product and service recommendation models tailored to customer needs.
+  - Analyze consumption data to identify behavioral patterns and optimization opportunities.
+  - Prepare dashboards, reports, and interactive visualizations to communicate findings to business areas.
+  - Collaborate with multidisciplinary teams to integrate data-driven solutions into operational and commercial processes.
+
+
+: **Alcaldía de Barranquilla: Backend programming instructor with Python** (since Feb 2024 to Dec 2025)
   - Develop and organize educational programs tailored to the development of Python programming skills and computational thinking.
   - Explain complex concepts in a clear and comprehensible manner.
   - Create tests and projects to assess understanding and application of knowledge.
@@ -177,6 +187,18 @@ Extra Section
 
 Other certifications
 ----------------------------------------
+
+* **Azure Data Fundamentals DP-900** Certificación. (Julio 2025)
+    Microsoft
+
+* **Machine Learning Zoomcamp** Bootcamp. (Febrero 2025)
+    DataTalks. 
+
+* **MLops Zoocamp** Bootcamp. (Octubre 2024)
+    DataTalks. 
+
+* **LLM Zoomcamp** Bootcamp. (Septiembre 2024)
+    DataTalks. 
 
 * **Data Engineer Zoomcamp:** Bootcamp. (Abr 2024) 
     DataTalks. 
