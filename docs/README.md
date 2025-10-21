@@ -231,7 +231,7 @@ Another insteresting projects
 : **mlops-zoomcamp-project** (August 2024) 
 This repository provides a solution for predicting taxi trip durations in New York City using machine learning and MLOps practices. The project leverages the NYC Taxi trip record data and applies machine learning models such as Linear Regression, Lasso, Gradient Boosting, and Random Forest to predict trip durations. The solution integrates tools like Airflow for workflow orchestration, MLflow for experiment tracking and model registry, Flask for API deployment, and LocalStack to simulate cloud storage. The code quality is maintained using Pylint, Black, and Isort, while Pytest and Unittest are used for testing.
 
-Project link [Here](https://github.com/jelambrar96-datatalks/data_engineer_zoomcamp_project_jelambrar96).
+Project link [Here](https://github.com/jelambrar96-datatalks/mlops-zoomcamp-project).
 
 : **Data_engineer_zoomcamp_project_jelambrar96** (April 2024) 
 Implementation of a cloud-based solution for massive event analysis on the GitHub platform using data from gharchive.org. The project involved designing and developing a scalable and distributed data processing infrastructure on Google Cloud Platform (GCP), using tools such as Apache Hadoop, Spark, and BigQuery, along with workflow orchestration in Google Cloud Composer (Airflow). It also utilized Infrastructure as Code (IaC) tools with Terraform, ensuring the reproducibility and scalability of the data environment.  
