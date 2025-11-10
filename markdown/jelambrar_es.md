@@ -13,7 +13,9 @@ Perfil Excercism:                     [jelambrar96](https://exercism.org/profile
 -------------------     ----------------------------
 
 **Acerca de mi**  
-Ingeniero Electrónico egresado de la Universidad del Norte  (Barranquilla, Colombia), con experiencia en recopilación, procesamiento, análisis y presentación de datos, así como en el desarrollo de aplicaciones y la creación de bases de datos. Tengo conocimientos en lenguajes de programación como Java, C++, JavaScript y Python. También tengo experiencia en el diseño y desarrollo de algoritmos y conocimiento en los principios de la ciencia de datos, machine learning y minería de datos. Además, estoy familiarizado con el uso de herramientas de visualización de datos como Grafana, PowerBI, Tableau, y Superset. 
+Ingeniero Electrónico egresado de la Universidad del Norte (Barranquilla, Colombia), con sólida experiencia en ingeniería y ciencia de datos, incluyendo la construcción de pipelines ETL/ELT, modelado predictivo y automatización de procesos en entornos cloud (Azure, AWS y GCP). 
+Manejo avanzado de Python y SQL, con experiencia en el uso de Databricks, Airflow y herramientas de machine learning. 
+Apasionado por transformar datos en soluciones estratégicas que optimicen la toma de decisiones y generen impacto en las organizaciones.
 
 -------------------     ----------------------------
 
@@ -31,45 +33,47 @@ Experiencia Laboral
 ----------
 
 : **[Promigas SA](https://www.promigas.com): Profesional en Gestión de Datos** (desde Diciembere 2025 a Julio 2025)
-- Extraer y procesar grandes volúmenes de datos geográficos y de potencial energético. Y posteriormente, realizar cruces con diversas fuentes internas y externas para mejorar el contexto y precisión de la información.
-- Desarrollar e implementar modelos de recomendación de productos y servicios adaptados a las necesidades de los clientes.
-- Análizar datos de consumo para identificar patrones de comportamiento y oportunidades de optimización.
-- Elaboración de tableros, reportes y visualizaciones interactivas para comunicar hallazgos a las áreas de negocio.
-- Colaborar con equipos multidisciplinarios para integrar soluciones basadas en datos a procesos operativos y comerciales.
+- Extraje y procesé grandes volúmenes de datos geográficos y energéticos provenientes de diversas regiones de Colombia, optimizando la precisión y el contexto mediante la integración de múltiples fuentes internas y externas.
+- Desarrollé modelos de recomendación de productos y servicios basados en el comportamiento del cliente, impulsando la toma de decisiones estratégicas.
+- Analicé patrones de consumo energético y diseñé modelos predictivos para anticipar tendencias de demanda y eficiencia.
+- Creé tableros e informes interactivos, facilitando la comunicación de resultados a las áreas de negocio.
+- Colaboré con equipos multidisciplinarios para integrar soluciones de analítica avanzada en procesos operativos y comerciales, fortaleciendo la cultura de datos en la organización.
+- **Competencias clave**: Python, SQL, Power BI, análisis geoespacial, machine learning, gestión de datos, ETL, storytelling con datos.
+
 
 : **[Alcaldía de Barranquilla](https://barranquilla.gov.co/gerencia-tic/catin): Instructor de programación backend con Python de los centros CATIN** (desde Febrero 2024 a Diciembre 2024)
-- Desarrollar y estructurar programas educativos ajustados al desarrollo de habilidades de programaciónen Python y al desarrollo del pensamiento computacional.
-- Explicar conceptos complejos de manera clara y comprensible.
-- Crear pruebas y proyectos para evaluar la comprensión y aplicación del conocimiento por parte de los estudiantes.
-- Maneja las dinámicas de grupo y resolución de problemas que se presenten en el aula.
-- Fomentar el análisis y la resolución de problemas mediante la programación, así como el aprendizaje autónomo.
-- Conectar herramientas y métodos de enseñanza con las últimas tecnologías del desarrollo de software.
+- Diseñé e implementé programas educativos enfocados en el desarrollo de competencias en Python, programación estructurada y pensamiento computacional.
+- Traducí conceptos complejos de desarrollo backend y ciencia de la computación a metodologías prácticas adaptadas a distintos niveles de formación.
+- Desarrollé proyectos y actividades para la aplicación de conocimientos en contextos reales de desarrollo.
+- Promoví la resolución de problemas mediante la programación y el aprendizaje activo, utilizando herramientas modernas y buenas prácticas del desarrollo ágil.
+- **Competencias clave**: Python, enseñanza técnica, liderazgo educativo, desarrollo backend, elaboración material educativo,  comunicación efectiva.
+
 
 : **[Pragma SA](https://www.pragma.com/): Ingeniero de datos** (desde Marzo 2023 a Septiembre 2023)
-- Recopilar, Analizar y procesar datos corporativos. 
-- Construir procesos ETL para obtener análisis de datos corporativos estructurados y no estructurados. 
-- Implementar herramientas de computación en la nube de AWS para el procesamiento de datos estructurados y no estructurados. AWS Lambda, AWS Glue, AWS S3.  
-- Implementar las mejores prácticas de seguridad y un adecuado manejo de roles y permisos de la información almacenada. 
-- Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos. Superset.
+- Implementé soluciones escalables para análisis de datos corporativos, reduciendo tiempos de procesamiento y mejorando la calidad de la información.
+- Diseñé y gestioné pipelines ETL para el procesamiento de datos estructurados y no estructurados en entornos AWS (Glue, Lambda, S3).
+- Apliqué políticas de seguridad, control de acceso y manejo de roles para la gestión segura de datos en la nube.
+- Desarrollé dashboards interactivos con Apache Superset, facilitando el monitoreo de métricas clave.
+- **Competencias clave**: AWS Glue, AWS Lambda, SQL, Python, ETL/ELT, Superset, DevOps, gestión de datos cloud.
+
 
 : **[E2 Energia Eficiente SA](https://www.e2energiaeficiente.com/): Desarrollador Backend** (desde Julio 2021 a Marzo 2023)
-- Recopilar y procesar grandes volúmenes de datos. 
-- Utilizar herramientas de análisis de datos para generar informes. 
-- Diseñar y desarrollar bases de datos para almacenar los datos recopilados. Bases de datos relacionales SQL y no relacionales MongoDB, InfluxDB. 
-- Utilizar herramientas de visualización de datos para mejorar la comprensión de los datos. Grafana, PowerBI, Tableau, QlikView y D3.js.
-- Realizar análisis predictivos para tomar decisiones informadas. 
-- Desarrollar modelos de minería de datos para detectar patrones y tendencias. 
-- Establecer estándares de seguridad de la información y garantizar la protección de los datos.  
+- Desarrollé ETL para la recolección, almacenamiento y análisis de datos energéticos y variables industriales provenientes de sensores e IoT.
+- Gestioné bases de datos relacionales (PostgreSQL, MySQL) y no relacionales (MongoDB, InfluxDB) para el almacenamiento eficiente de información.
+- Creé tableros y reportes interactivos con Grafana, optimizando la toma de decisiones operativas.
+- Implementé modelos predictivos de consumo energético y minería de datos para la detección de patrones y optimización de recursos.
+- Aseguré la integridad y seguridad de la información mediante buenas prácticas de desarrollo y protección de datos. 
+- Ganadores del Primer puesto del premio a la Eficiencia Energética ANDESCO 2022. Proyecto: Inteligencia artificial aplicada a la eficiencia energética.
+- **Competencias clave**: Python, SQL, MongoDB, Grafana, InfluxDB, NodeRed, análisis predictivo, APIs REST, arquitectura backend.
+
 
 :   **[Ebenezer Technologies SAS](https://ebenezertechs.com/): C++ Developer** (desde Febrero 2019 a Junio 2021)
-- Diseñar y desarrollar algoritmos de visión artificial para procesar grandes cantidades de datos.C++.  
-- Crear modelos de visión artificial para la detección y seguimiento de objetos. C++. 
-- Implementar técnicas de aprendizaje profundo y machine learning para mejorar los resultados en sistemas de visión artificial. 
-- Diseñar y desarrollar redes neuronales profundas para procesar datos de imágenes. Python, Tensorflow, Keras. 
-- Evaluar y depurar algoritmos desarrollados de visión artificial para lograr un rendimiento óptimo. Pytest, PyUnit/UnitTest. 
-- Utilizar herramientas de software especializadas para el procesamiento de imágenes. 
-- Optimizar los sistemas de visión artificial para un mejor rendimiento. 
-- Investigar nuevas tendencias y tecnologías de visión artificial.  
+- Diseñé e implementé algoritmos de visión artificial y machine learning para detección, segmentación y seguimiento de objetos.
+- Desarrollé redes neuronales profundas en Python (TensorFlow, Keras) para procesamiento de imágenes y análisis de video.
+- Optimizé el rendimiento de los modelos mediante técnicas de paralelización y depuración avanzada en C++.
+- Documenté y validé resultados experimentales mediante pytest y unittest, garantizando calidad en los entregables.
+- Colaboré con equipos de investigación en la exploración de nuevas tecnologías para visión por computadora y aprendizaje profundo.
+- **Competencias clave**: C++, Python, TensorFlow, Keras, visión artificial, deep learning, pruebas unitarias, optimización de algoritmos.
 
 
 -------------------     ----------------------------
