@@ -12,12 +12,14 @@ Portfolio page:                     [https://jelambrar-folio.netlify.app](https:
 -------------------     ----------------------------
 
 **About me**  
+Electronic Engineer graduated from Universidad del Norte (Barranquilla, Colombia), with solid experience in data engineering and analytics, including the development of ETL/ELT pipelines, predictive modeling, and process automation in cloud environments (Azure, AWS, and GCP). Advanced proficiency in Python, SQL, and Power BI, with hands-on experience using Databricks, Airflow, and machine learning tools. Passionate about transforming data into strategic solutions that enhance decision-making and drive organizational impact.
+<!-- 
 I am Electronic Engineer from Universidad del Norte (Barranquilla, Colombia). I have experience on the
 field of Sofware development, and I have skills developing applications
 using **Python**, C, C++, Java and JavaScript. He also has experience in the design and development of algorithms 
 and knowledge of the principles of Data Science, Machine Learning and Data Mining. 
 Additionally, I am familiar with using data visualization tools such as **Grafana**, **Tableau**, PowerBI and Superset. 
-
+-->
 -------------------     ----------------------------
 
 Education
