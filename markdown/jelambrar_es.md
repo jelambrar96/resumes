@@ -207,7 +207,7 @@ Otros cursos y certificaciones
 Algunos proyectos interesantes
 ----------------------------------------
 
-: **[Taxi Trip Duration Predictor](https://github.com/jelambrar96/data_engineer_zoomcamp_project_jelambrar96)** (Octubre 2024) 
+: **[Taxi Trip Duration Predictor](https://github.com/jelambrar96-datatalks/mlops-zoomcamp-project)** (Octubre 2024) 
 Desarrollo de una solución para predecir la duración de viajes en Nueva York utilizando datos del NYC TLC y modelos de Machine Learning (Linear Regression, Lasso, Gradient Boosting, Random Forest). Implementación con Python, Airflow, Pandas, Scikit-learn, MLflow, Flask, Docker y herramientas de calidad de código (Pylint, isort, Black).
 
 : **[Book Review Asistant](https://github.com/jelambrar96-datatalks/book-review-assistant)** (Septiembre 2024) 
