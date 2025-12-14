@@ -1,13 +1,13 @@
 # Jorge Lambraño
 ##  Desarrollador de Software e Ingeniero de Datos
 
-<img style="float: right;" src="media/qr-code.png" width="140"> 
+<img style="float: right;" src="media/cv-image.png" width="140"> 
 
 -------------------     ----------------------------
 Correo Electrónico:                   <jelambrar@gmail.com>  
 Teléfono:                             (+57) 3045653650  
 Perfil Github:                        [@jelambrar96](https://github.com/jelambrar96)  
-Perfil LinkedIn:                      [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)  
+Perfil LinkedIn:                      [Jorge Lambraño](https://www.linkedin.com/in/jelambrar96/)  
 Portfolio page:                       [https://jelambrar-folio.netlify.app](https://jelambrar-folio.netlify.app/)  
 Perfil Excercism:                     [jelambrar96](https://exercism.org/profiles/jelambrar96)
 -------------------     ----------------------------
