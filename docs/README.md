@@ -7,7 +7,7 @@
 Email adress:                   <jelambrar@gmail.com>  
 Telephone:                        (+57) 304-565-3650  
 Github profile:                       [@jelambrar96](https://github.com/jelambrar96)  
-LinkedIn profile:                     [Jorge Lambraño](https://www.linkedin.com/in/jorge-lambra%C3%B1o-a64662157/)  
+LinkedIn profile:                     [Jorge Lambraño](https://www.linkedin.com/in/jelambrar96/)  
 Portfolio page:                     [https://jelambrar-folio.netlify.app](https://jelambrar-folio.netlify.app/)  
 -------------------     ----------------------------
 
@@ -25,11 +25,15 @@ Additionally, I am familiar with using data visualization tools such as **Grafan
 Education
 ---------
 
-2014-2019
-:   **Electronic Engineer**; Universidad del Norte 
-    (Barranquilla-Colombia)  
-    **Thesis: Optimización de un sistema de procesamiento de imágenes 
-    por radar.**  
+2025
+:   **Máster Universitario en Inteligencia Artificial.**; Universidad Internacional de la Rioja-UNIR (La Rioja-España)
+    **FP: Reconocimiento de patrones en sistemas industriales para la detección de fallos mediante algoritmos de Aprendizaje Automático.**
+    A comparison of the performance of various machine learning models to identify which one is the most suitable for the development of a robust, efficient, and industrially applicable anomaly detector.
+
+
+2019
+:   **Electronic Engineer**; Universidad del Norte (Barranquilla-Colombia)  
+    **FP: Optimización de un sistema de procesamiento de imágenes por radar.**  
     A computer vision system to measure and extract basic ocean waves features
     were optimized in other to be excuted on devices which medium computing 
     level. New features were developed using python-based frameworks like
