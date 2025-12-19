@@ -22,9 +22,14 @@ Apasionado por transformar datos en soluciones estratégicas que optimicen la to
 Educación
 ---------
 
-2014-2019
+2025
+:   **Máster Universitario en Inteligencia Artificial.**; Universidad Internacional de la Rioja-UNIR (La Rioja-España)
+    **TFM: Reconocimiento de patrones en sistemas industriales para la detección de fallos mediante algoritmos de Aprendizaje Automático.**
+    Se comparó el desempeño de diversos modelos de aprendizaje automático con el fin de identificar cuál resulta más apropiado para el desarrollo de un detector de anomalı́as robusto, eficiente y aplicable en entornos industriales.
+
+2019
 :   **Ingeniero Electrónico**; Universidad del Norte (Barranquilla-Colombia)  
-    **Tesis: Optimización de un sistema de procesamiento de imágenes por radar.**
+    **Proyecto de grado: Optimización de un sistema de procesamiento de imágenes por radar.**
     Se optimizó un sistema de visión por computadora para medir y extraer características basicas de las olas oceánicas con el objetivo de ser ejecutadas en dispositivos de cómputo de mediano nivel. Se desarrollaron nuevas características usando frameworks basados en C y python como numpy, scipy y opencv.
 
 -------------------     ----------------------------

@@ -19,11 +19,13 @@ Ingeniero Electrónico egresado de la Universidad del Norte  (Barranquilla, Colo
 Educación
 ---------
 
-2014-2019
+2025
+:   **Máster Universitario en Inteligencia Artificial.**; Universidad Internacional de la Rioja-UNIR (La Rioja-España)
+    **TFM: Reconocimiento de patrones en sistemas industriales para la detección de fallos mediante algoritmos de Aprendizaje Automático.**
+
+2019
 :   **Ingeniero Electrónico**; Universidad del Norte (Barranquilla-Colombia)  
     **Tesis: Optimización de un sistema de procesamiento de imágenes por radar.**
-    Se optimizó un sistema de visión por computadora para medir y extraer características basicas de las olas oceánicas con el objetivo de ser ejecutadas en dispositivos de cómputo de mediano nivel. Se desarrollaron nuevas características usando frameworks basados en C y python como numpy, scipy y opencv.
-
 
 -------------------     ----------------------------
 
